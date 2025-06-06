@@ -7,13 +7,13 @@ I have in the Technology sector for more that 7 years and a dedication to solvin
 
 ## Objective
 
-My journey in Computer Information Systems has led me to develop a passion for Cybersecurity. My goal is to be a Cloud Security Engineer/Analyst, specifically aiming to be an Microsoft Azure Security Engineer/Analyst.
+My journey in Computer Information Systems has led me to develop a passion for Cyber Security. My goal is to be a Cyber Security Engineer/Analyst, specifically aiming to be a Microsoft Azure Cloud Security Engineer/Analyst.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Cyber Home lab (Microsoft Sentinel)           | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
