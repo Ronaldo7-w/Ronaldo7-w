@@ -13,7 +13,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cyber Home lab (Microsoft Sentinel)           | <a href="https://google.com">Detection Lab</a>|
+| Cyber Home lab (Microsoft Sentinel)           | <a href="https://github.com/Ronaldo7-w/Cyber-Home-Lab-Microsoft-Sentinel-">Cyber Home Lab (Microsoft Sentinel)</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,6 +55,6 @@ My journey in Computer Information Systems has led me to develop a passion for C
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Ronaldo7-w/Cyber-Home-Lab-Microsoft-Sentinel-">Cyber Home Lab (Microsoft Sentinel)</a>
 - SOC Automation Project
 
