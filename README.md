@@ -14,7 +14,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cyber Home lab (Microsoft Sentinel)           | <a href="https://github.com/Ronaldo7-w/Cyber-Home-Lab-Microsoft-Sentinel-">Cyber Home Lab (Microsoft Sentinel)</a>|
-| Implementing Microsoft Azure Backup           | <a href="https://google.com">Detection Lab</a>|
+| Implementing Microsoft Azure Backup           | <a href="https://github.com/Ronaldo7-w/Implementing-Microsoft-Azure-Backup">Implementing Microsoft Azure Backup</a>|
 
 ## Tools
 
@@ -52,5 +52,5 @@ My journey in Computer Information Systems has led me to develop a passion for C
 
 ## Projects
 - <a href="https://github.com/Ronaldo7-w/Cyber-Home-Lab-Microsoft-Sentinel-">Cyber Home Lab (Microsoft Sentinel)</a>
-- Implementing Microsoft Azure Backup
+- <a href="https://github.com/Ronaldo7-w/Implementing-Microsoft-Azure-Backup">Implementing Microsoft Azure Backup</a>
 
