@@ -21,6 +21,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 ### Cloud Security Posture Management
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Cloud-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wiz-5A67D8?&style=for-the-badge&logo=wiz&logoColor=white" />
 </div>
 
 ### Endpoint
