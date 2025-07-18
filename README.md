@@ -16,7 +16,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 | Cyber Home lab (Microsoft Sentinel)           | <a href="https://github.com/Ronaldo7-w/Cyber-Home-Lab-Microsoft-Sentinel-">Cyber Home Lab (Microsoft Sentinel)</a>|
 | Implementing Microsoft Azure Backup           | <a href="https://github.com/Ronaldo7-w/Implementing-Microsoft-Azure-Backup">Implementing Microsoft Azure Backup</a>|
 | Terraform Project                             | <a href="https://github.com/Ronaldo7-w/Terraform_Project">Terraform Project</a>|
-| Integrate OKTA and Office 365 using SWA       | <a href="https://github.com/Ronaldo7-w/Terraform_Project">Terraform Project</a>|
+| Integrate OKTA and Office 365 using SWA       | <a href="https://github.com/Ronaldo7-w/Integrate-OKTA-and-Office-365-using-SWA-">Integrate OKTA and Office 365</a>|
 
 
 ## Tools
