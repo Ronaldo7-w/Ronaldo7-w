@@ -45,6 +45,11 @@ My journey in Computer Information Systems has led me to develop a passion for C
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
+### Identity and Access Management (IAM) Tool
+<div>
+   <img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_SC--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -58,4 +63,4 @@ My journey in Computer Information Systems has led me to develop a passion for C
 - <a href="https://github.com/Ronaldo7-w/Cyber-Home-Lab-Microsoft-Sentinel-">Cyber Home Lab (Microsoft Sentinel)</a>
 - <a href="https://github.com/Ronaldo7-w/Implementing-Microsoft-Azure-Backup">Implementing Microsoft Azure Backup</a>
 - <a href="https://github.com/Ronaldo7-w/Terraform_Project">Terraform Project</a>
-
+- <a href="https://github.com/Ronaldo7-w/Integrate-OKTA-and-Office-365-using-SWA-">Integrate OKTA and Office 365</a>
