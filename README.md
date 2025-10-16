@@ -48,7 +48,8 @@ My journey in Computer Information Systems has led me to develop a passion for C
 ### Identity and Access Management (IAM) Tool
 <div>
    <img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
-</div>
+   <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+ </div>
 
 ## Certifications
 <div>
