@@ -7,7 +7,7 @@ I have in the Technology sector for more that 7 years and a dedication to solvin
 
 ## Objective
 
-My journey in Computer Information Systems has led me to develop a passion for Cyber Security. My goal is to be a Cyber Security Engineer/Analyst, specifically aiming to be a Microsoft Azure Cloud Security Engineer/Analyst.
+My journey in Computer Information Systems has led me to develop a passion for Cyber Security. My goal is to be a Cyber Security Engineer/Analyst, specifically aiming to be a Microsoft Cloud Security Engineer.
 
 ## Skills
 
