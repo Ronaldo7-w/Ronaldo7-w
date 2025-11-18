@@ -3,11 +3,11 @@
 <a href="https://linkedin.com/in/ronniewalters"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have in the Technology sector for more that 7 years and a dedication to solving complex problems.
+I have been in the Technology sector for more that 7 years and I am dedicated to solving problems. That includes software issues, hardware issue and security issues in Azure and M365. 
 
 ## Objective
 
-My journey in Computer Information Systems has led me to develop a passion for Cyber Security. My goal is to be a Cyber Security Engineer/Analyst, specifically aiming to be a Microsoft Cloud Security Engineer.
+My journey in Computer Information Systems has led me to develop a passion for Cyber Security. My goal is to be a Microsoft Cloud Security Analyst/Engineer in Azure and/or M365.
 
 ## Skills
 
@@ -50,11 +50,12 @@ My journey in Computer Information Systems has led me to develop a passion for C
 <div>
    <img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
  </div>
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_SC--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Security%2C_Compliance_%26_Identity_Fundamentals_(SC--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_EDR-E60027?&style=for-the-badge&logo=qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management-E60027?&style=for-the-badge&logo=qualys&logoColor=white" />
