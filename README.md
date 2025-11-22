@@ -18,6 +18,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 | Terraform Project                             | <a href="https://github.com/Ronaldo7-w/Terraform_Project">Terraform Project</a>|
 | Integrate OKTA and Office 365 using SWA       | <a href="https://github.com/Ronaldo7-w/Integrate-OKTA-and-Office-365-using-SWA-">Integrate OKTA and Office 365</a>|
 | Attack Simulation Training (M365)             | <a href="https://github.com/Ronaldo7-w/Attack-Simulation-Training-M365-">Attack Simulation Training (M365)</a>|
+| Activate Priviledge Identity Management       | <a href="https://github.com/Ronaldo7-w/Activate-Priviledge-Identity-Management-PIM-">Activate Priviledge Identity Management</a>|
 
 
 ## Tools
@@ -68,3 +69,4 @@ My journey in Computer Information Systems has led me to develop a passion for C
 - <a href="https://github.com/Ronaldo7-w/Terraform_Project">Terraform Project</a>
 - <a href="https://github.com/Ronaldo7-w/Integrate-OKTA-and-Office-365-using-SWA-">Integrate OKTA and Office 365</a>
 - <a href="https://github.com/Ronaldo7-w/Attack-Simulation-Training-M365-">Attack Simulation Training (M365)</a>
+- <a href="https://github.com/Ronaldo7-w/Activate-Priviledge-Identity-Management-PIM-">Activate Priviledge Identity Management</a>
