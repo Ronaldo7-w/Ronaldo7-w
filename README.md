@@ -42,18 +42,23 @@ My journey in Computer Information Systems has led me to develop a passion for C
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Cloud Platform
+### Cloud Platforms
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
-### Identity and Access Management (IAM) Tool
+### Identity and Access Management (IAM) Tools
 <div>
    <img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
    <img src="https://img.shields.io/badge/-AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
  </div>
+
+### Mobile Device Management (MDM) Tools
+<div>
+    <img src="https://img.shields.io/badge/-Jamf-1E90FF?style=for-the-badge&logo=jamf&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white" />
 
 ## Certifications
 <div>
