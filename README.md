@@ -3,7 +3,8 @@
 <a href="https://linkedin.com/in/ronniewalters"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have been in the Technology sector for more that 7 years and I am dedicated to solving problems. That includes software issues, hardware issue and security issues in Azure and M365. 
+Cloud Security Engineer with 4+ years of hands-on experience securing cloud and enterprise environments across Microsoft  Azure, Microsoft 365, and AWS, with a strong focus on Identity and Access Management (IAM) and cloud threat detection. Proven experience implementing Entra ID and OKTA identity governance, enforcing Conditional Access and MFA, and applying least-privilege access controls to reduce organizational risk. Skilled in cloud security posture management (Wiz, Microsoft Defender for Cloud), SIEM and incident response (Microsoft Sentinel, KQL), and endpoint protection (Defender XDR, CrowdStrike). Adept at Vulnerability management, compliance alignment (SOC 2, ISO 27001, NIST 800-53), and automating secure cloud infrastructure using Terraform.
+ 
 
 ## Objective
 
