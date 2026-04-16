@@ -80,3 +80,4 @@ My journey in Computer Information Systems has led me to develop a passion for C
 - <a href="https://github.com/Ronaldo7-w/Attack-Simulation-Training-M365-">Attack Simulation Training (M365)</a>
 - <a href="https://github.com/Ronaldo7-w/Activate-Priviledge-Identity-Management-PIM-">Activate Priviledge Identity Management</a>
 - <a href="https://github.com/Ronaldo7-w/Intune-MDM-Project">Intune MDM Project
+- <a href="https://github.com/Ronaldo7-w/Azure-Network-Segmentation-Lab">Azure Network Segmentation Lab
