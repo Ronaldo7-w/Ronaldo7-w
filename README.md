@@ -48,6 +48,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Identity and Access Management (IAM) Tools
