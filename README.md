@@ -21,6 +21,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 | Attack Simulation Training (M365)             | <a href="https://github.com/Ronaldo7-w/Attack-Simulation-Training-M365-">Attack Simulation Training (M365)</a>|
 | Activate Priviledge Identity Management       | <a href="https://github.com/Ronaldo7-w/Activate-Priviledge-Identity-Management-PIM-">Activate Priviledge Identity Management</a>|
 | Intune MDM Project                            | <a href="https://github.com/Ronaldo7-w/Intune-MDM-Project">Intune MDM Project
+| Azure-Network-Segmentation-Lab                | <a href="https://github.com/Ronaldo7-w/Azure-Network-Segmentation-Lab/blob">Azure Network Segmentation Lab
 
 
 ## Tools
