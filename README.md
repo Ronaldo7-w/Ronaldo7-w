@@ -65,6 +65,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
 
 ## Certifications
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals_(AZ--900)-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Security%2C_Compliance_%26_Identity_Fundamentals_(SC--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_EDR-E60027?&style=for-the-badge&logo=qualys&logoColor=white" />
