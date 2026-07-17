@@ -71,6 +71,7 @@ My journey in Computer Information Systems has led me to develop a passion for C
     <img src="https://img.shields.io/badge/-Qualys_EDR-E60027?&style=for-the-badge&logo=qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management-E60027?&style=for-the-badge&logo=qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-GRC_Mastery-6A1B9A?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20AI%20Fundamentals_(AI--901)-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ## Projects
